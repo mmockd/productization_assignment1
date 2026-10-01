@@ -1,6 +1,4 @@
 import pandas as pd
-import statsmodels.api as sm
-import plotly.express as px
 import numpy as np
 
 campaign_data = pd.read_csv('skin clinic campaign.csv')
