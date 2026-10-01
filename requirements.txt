@@ -1,5 +1,5 @@
 fastapi
-numpy
+uvicorn
 pandas
-plotly
-statsmodels
+numpy
+
